@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FixAlignmentShifts", "FixAlignmentShifts\FixAlignmentShifts.csproj", "{B32C650A-4E3E-494D-B3E3-F541871549F9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B32C650A-4E3E-494D-B3E3-F541871549F9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B32C650A-4E3E-494D-B3E3-F541871549F9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B32C650A-4E3E-494D-B3E3-F541871549F9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B32C650A-4E3E-494D-B3E3-F541871549F9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {CE9E503E-09CF-4B70-8B4D-1774C0174ED5}
+	EndGlobalSection
+EndGlobal
